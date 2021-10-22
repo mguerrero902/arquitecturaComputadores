@@ -1,4 +1,4 @@
-# arquitecturaComputadores
+# Arquitectura de Computadores
 Arquitectura de Computadores
 ## Presentación
 En este repositorio se encuentran disponibles las soluciones a 39 ejercicios en lenguaje C
